@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dyan Counter</string>
+    <string name="playBtn">Play</string>
+    <string name="targetCount">Target Count</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="RepeatCount">Repeat Count</string>
+    <string name="duration">Duration</string>
+    <string name="start">Start</string>
+    <string name="countdown">Remaining</string>
+    <string name="btnStop">Stop</string>
+</resources>
